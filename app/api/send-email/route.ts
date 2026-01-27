@@ -83,7 +83,8 @@ Terms Accepted: Yes
         <!-- Role -->
         <div style="margin-bottom: 30px;">
             <p style="text-transform: uppercase; font-size: 11px; color: #64748b; font-weight: 700; letter-spacing: 0.05em; margin: 0 0 5px 0;">Primary Role (Buyer Persona)</p>
-            <p style="font-size: 16px; color: #1e293b; margin: 0; font-weight: 500;">${persona.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())}</p>
+            <p style="font-size: 16px; color: #1e293b; margin: 0; font-weight: 500;">${persona.replace('_', ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())
+}</p>
         </div>
 
         <!-- Footer Info -->
