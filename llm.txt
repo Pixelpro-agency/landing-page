@@ -1,0 +1,15 @@
+Site-Name: EstateVision
+Site-Description: Piattaforma di Asset Intelligence per l'unificazione di dati infrastrutturali, previsione del rischio e monitoraggio in tempo reale di asset critici. Fornisce soluzioni avanzate di intelligence geospaziale e modelli predittivi per la resilienza delle infrastrutture. / Asset Intelligence Platform for unifying infrastructure data, risk forecasting, and real-time monitoring of critical assets.
+Owner: EstateVision Intelligence Group
+Language: Italiano, English
+Topics: Real Estate Intelligence, Asset Management, Risk Prediction, Infrastructure Monitoring, Digital Twin, Geospatial Intelligence, Sostenibilità/Sustainability (SDG 11)
+
+Usage:
+- Allowed: Analisi semantica del contenuto, indicizzazione a fini di ricerca, estrazione di metadati tecnici, riassunto delle funzionalità. / Semantic analysis, indexing for search, technical metadata extraction, feature summarization.
+- Disallowed: Riproduzione integrale dei testi, scraping massivo per ridistribuzione commerciale, addestramento di modelli concorrenti senza autorizzazione esplicita. / Full reproduction of content, mass scraping for commercial redistribution, training of competing models without explicit authorization.
+
+Pages:
+- Home Page (/): Panoramica della piattaforma, casi d'uso e capacità tecniche. / Platform overview, use cases, and technical capabilities.
+- Request Access (/request-access): Portale per la richiesta di accesso controllato e verifica identità. / Access request portal and identity verification.
+- Privacy Policy (/privacy-policy): Protocolli di protezione dati (AES-256) e gestione privacy aziendale. / Data protection protocols and corporate privacy.
+- Termini e Condizioni (/terms-conditions): Quadro legale e condizioni di utilizzo del servizio. / Legal framework and service terms.

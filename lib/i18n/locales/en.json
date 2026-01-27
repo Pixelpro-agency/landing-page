@@ -1,0 +1,167 @@
+{
+    "navbar": {
+        "requestAccess": "Request Access"
+    },
+    "hero": {
+        "badge": "Asset Intelligence Online",
+        "title1": "PREDICT THE",
+        "title2": "PHYSICAL WORLD",
+        "description": "EstateVision unifies fragmented infrastructure data into a real-time intelligence layer. Forecast security risks, grid volatility, and asset vulnerabilities before they escalate.",
+        "cta": "Request Access",
+        "stats": {
+            "countries": "Countries Monitored",
+            "assets": "Assets Tracked",
+            "uptime": "Uptime Guarantee"
+        },
+        "hud": "Live Simulation // Asset_ID: 8992"
+    },
+    "useCases": {
+        "title": "Strategic Applications",
+        "subtitle": "Operational intelligence for high-stakes environments.",
+        "governments": "Governments & Defense",
+        "utilities": "Utilities & Energy",
+        "financial": "Financial Institutions",
+        "assetManager": "Asset Manager",
+        "items": {
+            "stability": "Territory stability monitoring",
+            "protection": "Critical infrastructure protection",
+            "crisis": "Crisis response coordination",
+            "forecasting": "Grid resilience forecasting",
+            "vulnerability": "Asset vulnerability scoring",
+            "outage": "Outage prediction models",
+            "underwriting": "Physical risk underwriting",
+            "portfolio": "Portfolio exposure analysis",
+            "sovereign": "Sovereign risk intelligence",
+            "maintenance": "Predictive maintenance scheduling",
+            "energy": "Energy consumption optimization",
+            "uptime": "Operational uptime maximization"
+        }
+    },
+    "platform": {
+        "badge": "Core Capabilities",
+        "title": "COMPLETE SITUATIONAL AWARENESS",
+        "cards": {
+            "ingest": {
+                "title": "Ingest & Normalize",
+                "desc": "Unify thousands of fragmented data sources into a single ontology. From satellite imagery to IoT sensors, we create a cohesive digital twin.",
+                "metric": "10k+ Sources"
+            },
+            "risk": {
+                "title": "Risk Forecasting",
+                "desc": "Predictive models anticipate disruption before it occurs. Advanced scenario analysis for grid failure, civil unrest, and climate impact.",
+                "metric": "94% Accuracy"
+            },
+            "mapping": {
+                "title": "Physical Mapping",
+                "desc": "Geospatial intelligence mapped to critical assets. Visualize supply chain dependencies and infrastructure choke points in real-time.",
+                "metric": "Sub-meter Precision"
+            },
+            "incident": {
+                "title": "Incident Timeline",
+                "desc": "Reconstruct events with millisecond precision. Audit trails and forensic replay capabilities for post-incident analysis.",
+                "metric": "Real-time Sync"
+            }
+        }
+    },
+    "cta": {
+        "title": "Operational Intelligence starts here.",
+        "button": "Request Access",
+        "footer": "RESTRICTED ACCESS // VETTED ORGANIZATIONS ONLY"
+    },
+    "footer": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms and Conditions",
+        "rights": "ALL RIGHTS RESERVED.",
+        "secureLink": "Secure Link Established"
+    },
+    "requestAccess": {
+        "back": "Back to Home",
+        "title": "Secure your Asset Intelligence.",
+        "description": "Join the vetted network of high-security organizations using EstateVision to predict and mitigate physical world risks.",
+        "trust": {
+            "encryption": "Encryption Standard: AES-256",
+            "vetted": "Identity Verification",
+            "vettedDesc": "All requests are manually vetted for security clearance.",
+            "deployment": "Accelerated Deployment",
+            "deploymentDesc": "Configuration within 48 hours for approved entities.",
+            "api": "Direct API Access",
+            "apiDesc": "Integration protocols for sovereign data systems."
+        },
+        "form": {
+            "title": "Request Access",
+            "fullName": "Full Name",
+            "email": "Corporate Email",
+            "org": "Organization / Enterprise",
+            "phone": "Phone Number",
+            "role": "Primary Role (Buyer Persona)",
+            "roles": {
+                "placeholder": "select your mandate",
+                "assetManager": "I am Asset manager",
+                "securityManager": "I am security manager",
+                "other": "other"
+            },
+            "accept": "I have read and accept the",
+            "terms": "terms and conditions",
+            "submit": "Submit Application",
+            "consent": "BY SUBMITTING, YOU CONSENT TO OUR DATA PRIVACY PROTOCOLS. SYSTEMS LOGGED // IP TRACKED FOR AUDIT PURPOSES."
+        },
+        "success": {
+            "title": "Application Registered",
+            "desc": "Transmission received. Our intelligence team will vet your credentials within 24-48 hours.",
+            "button": "Return to Home"
+        }
+    },
+    "problem": {
+        "badge": "System Diagnostic: Critical",
+        "title1": "THE PHYSICAL WORLD IS",
+        "title2": "BECOMING UNPREDICTABLE",
+        "siloed": {
+            "title": "Siloed Intelligence",
+            "desc": "Enterprise data is trapped in disconnected legacy systems. Leadership lacks the cohesive visibility required to optimize portfolio performance and mitigate global risks."
+        },
+        "blindspots": {
+            "title": "Operational Blind Spots",
+            "desc": "Infrastructure is degrading faster than tracked. Reliance on scheduled maintenance misses real-time signs of asset drift, leading to costly, preventable downtime."
+        },
+        "static": {
+            "title": "Static Defense",
+            "desc": "Traditional security is reactive. Relying on cameras and guards alone leaves facilities exposed to sophisticated, predictive threats that bypass standard perimeters."
+        }
+    },
+    "interface": {
+        "badge": "EstateVision OS v2.4",
+        "title": "Unified Risk Operating System",
+        "desc": "Ingest signals from any domain. Predict threats in real-time. Coordinate response from a single pane of glass."
+    },
+    "partnerships": {
+        "title": "Powering Real Estate Innovation Through Partnerships",
+        "google": {
+            "title": "Google for Startups",
+            "desc": "Selected by Google for Startups for our innovative approach to real estate analytics and commitment to technological advancement."
+        },
+        "sdg": {
+            "title": "SDG 11",
+            "desc": "Contributing to UN Sustainable Development Goal 11 by promoting sustainable cities and communities through data-driven real estate decisions."
+        },
+        "footer": "At EstateVision, we believe in the power of collaboration to drive meaningful change. Our partnerships and commitment to sustainability shape the future of property markets worldwide."
+    },
+    "privacy": {
+        "back": "Back to Home",
+        "legal": "Legal // Privacy",
+        "title": "Privacy Policy",
+        "content": "# Privacy Policy\n\n**ESTATE VISION S.R.L.**, with registered office at **VIA OTTAVIO ASSAROTTI 10 - 10122 - TORINO (TO)**, VAT No. **IT13249390017** (hereinafter, “**ESTATE VISION**”), owner of the website (hereinafter, the “**Website**”) and of the IT platform for services and features supporting corporate personnel management (hereinafter, the “**Platform**”), hereby provides its Privacy Policy, pursuant to Arts. 13 and 14 of EU Regulation 679/2016 (hereinafter, the “**Privacy Regulation**”), as Data Controller of the personal data of users of the Website, the Platform, and – more generally – its services, as well as the recipients of its communication and marketing campaigns (hereinafter, collectively, the “**Users**”).\n\nESTATE VISION holds the right to privacy and the protection of Users' personal data in the highest regard. For any information regarding this Privacy Policy, Users may contact ESTATE VISION at any time using the contacts indicated in paragraph 10 below.\n\n### 1. Source of Persona Data\nThe personal data processed by ESTATE VISION are those:\n\n(a) provided by Users: (i) when using the Website, the Platform, and/or – more generally – all services offered by ESTATE VISION itself; (ii) upon registration on the Website and/or Platform; (iii) upon sending any request for information on ESTATE VISION products and services, through the aforementioned Website and/or Platform, and/or via other channels; as well as (iv) upon requesting subscription to the company's newsletter service; or\n\n(b) extracted from publicly accessible sources (e.g., public registers, such as the Business Register, or other freely accessible sources, such as social networks or professional directories), compatibly with the relevant terms of use and the legitimate expectations of Users.\n\n### 2. Categories of Personal Data\nMore specifically, Users are hereby informed that:\n\n*   **Through the Website**, the following may be collected: IP addresses and/or domain names of computers used to connect; URI (Uniform Resource Identifier); the time of the request; the method used to submit the request to the server; the size of the file obtained in response; the numerical code indicating the status of the response from the server (successful, error, etc.); the country of origin; the characteristics of the browser and operating system used by visiting Users; the various temporal connotations of the visit (e.g., time spent on each page) and details relating to the itinerary followed, with particular reference to the sequence of pages consulted and the parameters relating to the operating system and IT environment adopted by the Users themselves.\n*   **Through the Platform**, the following may be collected: identification data; professional data; data relating to professional experience; banking data of Users accessing it, such as marital status or number of dependent children; social information, such as social security number; economic and financial information relating to the professional sphere; work permits for foreign employees; if justified by law, data extracted from the criminal record and any other data that the Controller must process compulsorily *ex lege*; access data, recorded to ensure the security and correct functioning of the Platform and other information relating to the terminal and network used by Users to access the Platform, such as the browser adopted; data communicated for account configuration and – more generally – any other data that Users decide to enter into the Platform to supplement their profile.\n*   **From public registers or other freely accessible sources**, such as social networks or professional directories, managed by independent third-party Controllers, depending on the cases and the data made available by such sources, and compatibly with the relevant terms of use and the legitimate expectations of the Users themselves, consequent to the inclusion of their data on the sources in question, the following may be drawn: name, surname, professional qualification, company where they hold the position, company email address, and telephone number of the Users themselves.\n\n### 3. Legal Bases\nThe legal bases for the processing carried out by ESTATE VISION on Users' personal data vary depending on the specific purposes of the processing in question, which are detailed in paragraphs 4, 5, 6, and 7 below, with an indication of the legal bases adopted for each.\n\n### 4. Main Purposes of Processing\nUsers' personal data will be treated by ESTATE VISION for the following main processing purposes:\n\n(a) **Fulfillment of contractual obligations** (ex Art. 6, par. 1 lett. b) of the Privacy Regulation), i.e., to execute the services offered on the Website and Platform, if Users have already adhered to them, and/or for pre-contractual measures preparatory to potential future adherence to the same, as well as to fulfill the general conditions of service of said Website and Platform, accepted by the Users themselves by accessing and using said IT interfaces; by way of example and not limitation:\n\n*   **By using the Website**, Users may: (i) view the services offered by ESTATE VISION; (ii) request a quote; (iii) book a personalized demo by filling out the contact form with their data; (iv) register and authenticate to use ESTATE VISION services; and (v) publish a review visible to all other Users of the Website.\n*   **By using the Platform**, Users may: (i) manage HR activities and processes and use support services provided via said Platform; (ii) enter and view authorization profiles, attendance and absences, or holidays and leave; (iii) request and/or follow the approval process for expense reimbursements; (iv) monitor the use of meal vouchers; (v) view payslips and payments; as well as (vi) use the calendar – integrable with their own Google Calendar® – offered by the Platform itself, with the clarification that Google® user data will not be used for purposes other than those necessary to improve the features offered via the Platform.\n\n(b) **Administrative-accounting purposes** (ex Art. 6, par. 1, lett. c) of the Privacy Regulation), i.e., to carry out activities of an organizational, administrative, financial, and accounting nature, in relation to the execution of its services and the management of the aforementioned Website and Platform;\n\n(c) **Fulfillment of legal obligations** (ex Art. 6, par. 1, lett. c) of the Privacy Regulation), i.e., to fulfill obligations provided for by law, a regulation, or European legislation (e.g., tax legislation);\n\n(d) **Protection of ESTATE VISION's rights** (ex Art. 17, par. 3, lett. e) of the Privacy Regulation).\n\n#### 4.1 Nature of Provision\nThe processing of personal data for the main purposes listed above is mandatory, as it is imposed by legal obligations or strictly necessary for the realization of the requested services. Failure to accept such processing will entail the impossibility for Users to use some of the features offered on the Website and/or Platform, as well as other services proposed by ESTATE VISION.\n\n### 5. Further Purposes: sending \"soft spam\" commercial communications\nESTATE VISION may send Users who have already used its services, even without their prior consent to receive such communications, applying the exception granted by the Legislator for so-called \"soft spam\", information regarding new products or new services offered by the same, provided they are similar to those already purchased by them previously. In line with the processing identified in paragraph 4, Google® user data will not be used for other purposes outside those necessary to improve the service offered via the Platform, and in particular, will not be used for \"soft spam\" purposes.\n\n#### 5.1 Nature of Provision\nThe processing of Users' personal data for this purpose is based on the legitimate interest of ESTATE VISION, applying the aforementioned \"soft spam\" exception, expressly recognized by Art. 130, co. 4 of the Privacy Code (Legislative Decree 196/2003).\nUsers receiving such commercial messages may in any case always stop receiving them, by virtue of the right of opposition referred to in Art. 21 of the Privacy Regulation, by making a request to ESTATE VISION, using the methods indicated in paragraph 10 below; request to which ESTATE VISION itself will respond within 30 days, in compliance with Art. 12, par. 3 of the aforementioned Privacy Regulation.\nUsers may also easily oppose further sendings, by exercising the so-called \"opt-out\", through the methods present in every type of communication with which they are contacted for this purpose.\nUpon exercising the option, ESTATE VISION will send Users an email message to confirm receipt of the request.\nESTATE VISION informs Users, however, that even following the exercise of this option, it is possible that, for technical and operational reasons (e.g., contact lists already completed shortly before ESTATE VISION received the opt-out notification), they may continue to receive some further communications of this nature. Should this happen even after 72 hours from exercising the aforementioned option, please report the problem to ESTATE VISION using the contacts indicated in paragraph 10, as the opt-out procedure might not have been successful due to technical-IT problems.\n\n### 6. Further Purposes: sending newsletters and direct marketing communications\nIf Users expressly consent in advance to such further processing of their personal data for commercial purposes, ESTATE VISION will also send them a periodic newsletter containing information and updates regarding its business activity and service offering, as well as occasional direct marketing communications containing promotional material on its range of services, offers, and promotions for the purchase of the latter, as well as invitations to sector trade fairs or corporate initiatives organized by the same. In line with the processing identified in paragraph 4, Google® user data will not be used for other purposes outside those necessary to improve the service offered via the Platform, and in particular, will not be used for sending newsletters and direct marketing communications.\n\n#### 6.1 Nature of Provision\nUser consent to the processing of their personal data for this purpose is free and optional, but a necessary requirement to receive said newsletters and direct marketing communications from ESTATE VISION.\nIn case of lack of consent, the possibility of subscribing to the Website and/or registering on the Platform and/or – more generally – using the services offered by ESTATE VISION will not be prejudiced in any way, except for the impossibility of receiving the aforementioned newsletters and direct marketing communications.\nEven in case of consent, Users may revoke it at any time by making a request to ESTATE VISION using the methods indicated in paragraph 10 below; request to which ESTATE VISION itself will respond within 30 days, in compliance with Art. 12, par. 3 of the Privacy Regulation.\n\n### 7. Further Purposes: other direct marketing activities via public registers\nBased on the legitimate interest to expand its customer base, ESTATE VISION may also process, for direct marketing purposes, personal data of Users who hold, in companies that are potential targets of the relative commercial proposal, managerial positions reasonably involved, in a decisive manner, in the purchasing process of the services offered (e.g., Administration, Finance, HR, etc.). This is done by sending commercial communications, including via automated methods and using new technologies consisting of artificial intelligence software, to support the search, engagement, and conversion of corporate prospects (hereinafter, the “**Software**”).\nIn particular, in the context of the direct marketing activities described above, always using the Software, ESTATE VISION may draw the contact data of such Users from publicly accessible sources (e.g., public registers such as the Business Register, or other freely accessible sources such as social networks or professional directories), compatibly with the relevant terms of use and the legitimate expectations of the aforementioned Users, at the time they accepted the publication of their data on the sources in question.\n\n#### 7.1 Nature of Provision\nThe processing of Users' personal data for this purpose is based on the legitimate interest of ESTATE VISION and is supported by a specific Legitimate Interest Assessment (LIA), incorporated into the DPIA carried out on the processing in question.\nUsers receiving such commercial messages may in any case always stop receiving them, by virtue of the right of opposition referred to in Art. 21 of the Privacy Regulation, by making a request to ESTATE VISION using the methods indicated in paragraph 10 below.\n\n### 8. Transfers of personal data outside the European Union\nBased on agreements made by ESTATE VISION with some of its technology providers, for the pursuit of the purposes in paragraphs 4, 5, 6, and 7, Users' personal data might also be transferred to countries outside the European Union.\nTo ensure that such data are still subject to the same protections required by the Privacy Regulation, ESTATE VISION has signed specific Data Protection Agreements (DPA) with the aforementioned providers, ensuring a similar level of data security as if they were treated within the Union, thanks also to the application of Standard Contractual Clauses.\n\n### 9. Subjects of processing and scope of communication\nThe personal data of Users may become known to employees and/or collaborators of ESTATE VISION who manage the Website and/or the Platform, the provision of related services, the fulfillment of Users' information requests, as well as the sending of newsletters and other commercial communications.\nThe aforementioned personal data may also become known to third parties who process such data on behalf of ESTATE VISION, such as IT and logistics service providers, outsourcing service providers, professionals, and consultants.\nThese subjects, all formally appointed by ESTATE VISION as Persons in Charge, Data Processors, and/or System Administrators, will treat Users' personal data in compliance with and exclusively for the purposes indicated in this Privacy Policy and under the control and supervision of ESTATE VISION itself.\nUsers have the right to obtain a complete list of Data Processors appointed by ESTATE VISION by making a request to the latter using the methods indicated in paragraph 10 below.\n\n### 10. Rights of Users\nIn accordance with Art. 13, par. 2 and Art. 14, par. 2 of the Privacy Regulation, Users are hereby informed of the possibility to exercise at any time the rights recognized to them by the Regulation itself, such as:\n\n*   Accessing provided personal data;\n*   Obtaining rectification, cancellation, transformation into anonymous form, blocking of data processed in violation of law, or limitation of processing;\n*   Opposing the processing of their personal data;\n*   Revoking their consent;\n*   Obtaining portability of their personal data;\n*   Obtaining confirmation of the existence or otherwise of the same data, knowing its content and origin, verifying its accuracy, etc.\n*   Proposing a complaint to the competent Supervisory Authority;\n*   Opposing automated decision-making processes, including profiling.\n\nRequests to exercise the above rights should be addressed to ESTATE VISION:\n\n*   **By e-mail**, to the address: **estatevision@pec.it**\n*   **By registered mail**, to the postal address: **ESTATE VISION S.R.L., VIA OTTAVIO ASSAROTTI 10, 10122 – TORINO (TO)**.\n\n### 11. Retention Period\nUsers' personal data will be kept for the time necessary to pursue the purposes for which they were collected, respecting the principle of minimization. In any case, they will be kept at least for the retention period of contractual and tax documentation imposed by current legislation. For marketing purposes, data will generally be kept for a period limited to 24 months.\n\n### 12. Methods of Processing\nProcessing will be carried out using manual and IT tools, with logic strictly related to the purposes themselves and, in any case, in such a way as to guarantee the security and confidentiality of the data.\n\n### 13. Cookies\nThe Website and Platform use cookies and other tracking systems. For more information, please refer to the dedicated policy.\n\n### 14. Data Protection Officer (DPO)\nESTATE VISION takes data protection seriously. For any specific inquiries regarding the DPO or data protection roles, please contact us at **estatevision@pec.it**.",
+        "lastUpdated": ""
+    },
+    "terms": {
+        "back": "Back to Home",
+        "legal": "Legal // Terms",
+        "title": "Terms & Conditions",
+        "content": "# Terms & Conditions\n\n### 1. Acceptance of Terms\nBy accessing the EstateVision platform, you agree to comply with these terms of service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.\n\n### 2. Restrictive License\nAccess is granted solely for professional intelligence and risk assessment purposes. You may not:\n\n*   Modify or copy source material or 3D assets\n*   Use material for unauthorized commercial purposes\n*   Attempt to decompile or reverse engineer any software contained on the platform\n*   Remove any copyright or proprietary notations from the intelligence layers\n\n### 3. Disclaimer\nThe intelligence provided by EstateVision is based on predictive models and historical data. While we strive for extreme accuracy, insights are oracular in nature and should be used as one of many factors in human decision-making processes.\n\n### 4. Govering Law\nThese terms and conditions are governed by and construed in accordance with international corporate laws, and you irrevocably submit to the exclusive jurisdiction of the state or location designated by EstateVision Group."
+    },
+    "cookies": {
+        "text": "We use cookies for technical purposes and, with your consent, for measurement and marketing purposes (with personalized ads). Refusal of consent may make related features unavailable.",
+        "text2": "You can freely refuse or withdraw your consent at any time. Use the “Accept” button to consent. Close this notice to continue without accepting.",
+        "accept": "Accept",
+        "decline": "Decline"
+    }
+}

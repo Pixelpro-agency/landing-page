@@ -1,0 +1,166 @@
+{
+    "navbar": {
+        "requestAccess": "Richiedi Accesso"
+    },
+    "hero": {
+        "badge": "Asset Intelligence Online",
+        "title1": "PREVEDI IL",
+        "title2": "MONDO FISICO",
+        "description": "EstateVision unifica i dati infrastrutturali frammentati in un unico livello di intelligence in tempo reale. Prevedi rischi di sicurezza, volatilità della rete e vulnerabilità degli asset prima che degenerino.",
+        "cta": "Richiedi Accesso",
+        "stats": {
+            "countries": "Paesi Monitorati",
+            "assets": "Asset Tracciati",
+            "uptime": "Garanzia di Uptime"
+        },
+        "hud": "Simulazione Live // ID_Asset: 8992"
+    },
+    "useCases": {
+        "title": "Applicazioni Strategiche",
+        "subtitle": "Intelligence operativa per ambienti ad alto rischio.",
+        "governments": "Governi e Difesa",
+        "utilities": "Utility ed Energia",
+        "financial": "Istituzioni Finanziarie",
+        "assetManager": "Asset Manager",
+        "items": {
+            "stability": "Monitoraggio stabilità del territorio",
+            "protection": "Protezione infrastrutture critiche",
+            "crisis": "Coordinamento risposta alle crisi",
+            "forecasting": "Previsione resilienza della rete",
+            "vulnerability": "Punteggio vulnerabilità degli asset",
+            "outage": "Modelli di previsione interruzioni",
+            "underwriting": "Sottoscrizione rischio fisico",
+            "portfolio": "Analisi esposizione portafoglio",
+            "sovereign": "Intelligence rischio sovrano",
+            "maintenance": "Pianificazione manutenzione predittiva",
+            "energy": "Ottimizzazione consumi energetici",
+            "uptime": "Massimizzazione operatività"
+        }
+    },
+    "platform": {
+        "badge": "Capacità Fondamentali",
+        "title": "CONSAPEVOLEZZA SITUAZIONALE COMPLETA",
+        "cards": {
+            "ingest": {
+                "title": "Ingestione e Normalizzazione",
+                "desc": "Unifica migliaia di fonti dati frammentate in un'unica ontologia. Dalle immagini satellitari ai sensori IoT, creiamo un digital twin coeso.",
+                "metric": "oltre 10k Fonti"
+            },
+            "risk": {
+                "title": "Previsione del Rischio",
+                "desc": "Modelli predittivi anticipano le interruzioni prima che accadano. Analisi di scenario avanzata per guasti di rete, disordini civili e impatto climatico.",
+                "metric": "94% Accuratezza"
+            },
+            "mapping": {
+                "title": "Mappatura Fisica",
+                "desc": "Intelligence geospaziale mappata su asset critici. Visualizza le dipendenze della supply chain e i colli di bottiglia infrastrutturali in tempo reale.",
+                "metric": "Precisione sub-metrica"
+            },
+            "incident": {
+                "title": "Timeline Incidenti",
+                "desc": "Ricostruisci gli eventi con precisione al millisecondo. Audit trail e capacità di replay forense per l'analisi post-incidente.",
+                "metric": "Sincronizzazione Real-time"
+            }
+        }
+    },
+    "cta": {
+        "title": "L'intelligence operativa inizia qui.",
+        "button": "Richiedi Accesso",
+        "footer": "ACCESSO LIMITATO // SOLO ORGANIZZAZIONI VETTING"
+    },
+    "footer": {
+        "privacy": "Privacy Policy",
+        "terms": "Termini e Condizioni",
+        "rights": "TUTTI I DIRITTI RISERVATI.",
+        "secureLink": "Connessione Sicura Stabilita"
+    },
+    "requestAccess": {
+        "back": "Torna alla Home",
+        "title": "Proteggi la tua Asset Intelligence.",
+        "description": "Unisciti alla rete selezionata di organizzazioni ad alta sicurezza che utilizzano EstateVision per prevedere e mitigare i rischi del mondo fisico.",
+        "trust": {
+            "encryption": "Standard di Crittografia: AES-256",
+            "vetted": "Verifica dell'Identità",
+            "vettedDesc": "Tutte le richieste sono vagliate manualmente per l'autorizzazione di sicurezza.",
+            "deployment": "Distribuzione Accelerata",
+            "deploymentDesc": "Configurazione entro 48 ore per le entità approvate.",
+            "api": "Accesso API Diretto",
+            "apiDesc": "Protocolli di integrazione per sistemi di dati sovrani."
+        },
+        "form": {
+            "title": "Richiedi Accesso",
+            "fullName": "Nome Completo",
+            "email": "Email Aziendale",
+            "org": "Organizzazione / Azienda",
+            "phone": "Numero di Telefono",
+            "role": "Ruolo Primario (Profilo Acquirente)",
+            "roles": {
+                "placeholder": "seleziona il tuo mandato",
+                "assetManager": "Sono un Asset manager",
+                "securityManager": "Sono un security manager",
+                "other": "altro"
+            },
+            "accept": "Ho letto e accetto i",
+            "terms": "termini e condizioni",
+            "submit": "Invia Candidatura",
+            "consent": "INVIANDO, ACCONSENTI AI NOSTRI PROTOCOLLI DI PRIVACY DEI DATI. SISTEMI REGISTRATI // IP TRACCIATO PER SCOPI DI AUDIT."
+        },
+        "success": {
+            "title": "Candidatura Registrata",
+            "desc": "Trasmissione ricevuta. Il nostro team di intelligence valuterà le tue credenziali entro 24-48 ore.",
+            "button": "Torna alla Home"
+        }
+    },
+    "problem": {
+        "badge": "Diagnostica di Sistema: Critica",
+        "title1": "IL MONDO FISICO STA",
+        "title2": "DIVENTANDO IMPREVEDIBILE",
+        "siloed": {
+            "title": "Intelligence a Silos",
+            "desc": "I dati aziendali sono intrappolati in sistemi legacy disconnessi. La leadership manca della visibilità coesa necessaria per ottimizzare le prestazioni del portafoglio e mitigare i rischi globali."
+        },
+        "blindspots": {
+            "title": "Punti Ciechi Operativi",
+            "desc": "Le infrastrutture si degradano più velocemente di quanto tracciato. Fare affidamento sulla manutenzione programmata fa perdere segnali in tempo reale di deriva degli asset, portando a fermi macchina costosi ed evitabili."
+        },
+        "static": {
+            "title": "Difesa Statica",
+            "desc": "La sicurezza tradizionale è reattiva. Affidarsi solo a telecamere e guardie espone le strutture a minacce sofisticate e predittive che superano i perimetri standard."
+        }
+    },
+    "interface": {
+        "badge": "EstateVision OS v2.4",
+        "title": "Sistema Operativo per il Rischio Unificato",
+        "desc": "Ingerisci segnali da qualsiasi dominio. Prevedi le minacce in tempo reale. Coordina la risposta da un'unica console di comando."
+    },
+    "partnerships": {
+        "title": "Innovazione Immobiliare attraverso le Partnership",
+        "google": {
+            "title": "Google for Startups",
+            "desc": "Selezionati da Google for Startups per il nostro approccio innovativo all'analisi immobiliare e l'impegno nel progresso tecnologico."
+        },
+        "sdg": {
+            "title": "SDG 11",
+            "desc": "Contribuiamo all'Obiettivo di Sviluppo Sostenibile 11 delle Nazioni Unite promuovendo città e comunità sostenibili attraverso decisioni immobiliari basate sui dati."
+        },
+        "footer": "In EstateVision, crediamo nel potere della collaborazione per guidare un cambiamento significativo. Le nostre partnership e l'impegno per la sostenibilità modellano il futuro dei mercati immobiliari in tutto il mondo."
+    },
+    "privacy": {
+        "back": "Torna alla Home",
+        "legal": "Legale // Privacy",
+        "title": "Informativa sulla Privacy",
+        "content": "# Informativa Privacy\n\n**ESTATE VISION S.R.L.**, con sede legale in **VIA OTTAVIO ASSAROTTI 10, 10122 – TORINO (TO)**, P.IVA **13249390017**, titolare del sito internet (di seguito, il “**Sito**”) e della piattaforma informatica di servizi e funzionalità a supporto della gestione del personale aziendale, denominata EstateVision (di seguito, la “**Piattaforma**”), fornisce qui di seguito la propria Informativa Privacy, ai sensi degli artt. 13 e 14 del Regolamento UE 679/2016 (di seguito, il “**Regolamento Privacy**”), in qualità di Titolare del trattamento dei dati personali degli utenti del Sito, della Piattaforma e – più in generale – dei suoi servizi, nonché dei destinatari delle sue campagne di comunicazione e marketing (di seguito, collettivamente, gli utenti ed i destinatari appena detti, gli “**Utenti**”).\n\nESTATE VISION tiene nella massima considerazione il diritto alla privacy ed alla protezione dei dati personali degli Utenti. Per qualsiasi informazione in relazione alla presente Informativa Privacy, gli Utenti possono contattare ESTATE VISION in qualunque momento, utilizzando i contatti indicati al successivo paragrafo 10.\n\n### 1. Fonte dei dati personali\nI dati personali trattati da ESTATE VISION sono quelli:\n\n(a) conferiti dagli Utenti: (i) nell'utilizzo del Sito, della Piattaforma e/o – più in generale – di tutti i servizi da ESTATE VISION stessa offerti; (ii) al momento della registrazione nei Sito e/o Piattaforma medesimi; (iii) all’inoltro di qualsivoglia richiesta di informazioni sui prodotti e servizi di ESTATE VISION, tramite i suddetti Sito e/o Piattaforma, e/o attraverso altri canali; nonché (iv) al momento della richiesta di iscrizione al servizio di newsletter della società; ovvero\n\n(b) estratti da fonti pubblicamente accessibili (ad esempio, pubblici registri, come il Registro delle Imprese, o altre fonti a libero accesso, come social network o directory professionali), compatibilmente con i relativi regolamenti di utilizzo e le legittime aspettative degli Utenti.\n\n### 2. Categorie di dati personali\nPiù nel dettaglio, si informano sin d’ora gli Utenti che:\n\n*   **Tramite il Sito**, potranno essere raccolti: gli indirizzi IP e/o i nomi a dominio dei computer utilizzati per connettersi allo stesso; gli indirizzi in notazione URI (Uniform Resource Identifier); l’orario della richiesta; il metodo utilizzato nell’inoltrare la richiesta al server; la dimensione del file ottenuto in risposta; il codice numerico indicante lo stato della risposta dal server (buon fine, errore, ecc.) il Paese di provenienza; le caratteristiche del browser e del sistema operativo utilizzati dagli Utenti visitatori; le varie connotazioni temporali della visita (ad esempio, il tempo di permanenza su ciascuna pagina) e i dettagli relativi all’itinerario seguito, con particolare riferimento alla sequenza delle pagine consultate ed ai parametri relativi al sistema operativo ed all’ambiente informatico adottati dagli Utenti stessi.\n*   **Tramite la Piattaforma**, potranno essere raccolti: i dati identificativi; i dati professionali; i dati relativi all'esperienza professionale; i dati bancari degli Utenti che vi accedono; le informazioni sociali; le informazioni economiche e finanziarie relative all'ambito professionale; i dati di accesso, registrati per garantire la sicurezza e il corretto funzionamento della Piattaforma e altre informazioni relative al terminale ed alla rete utilizzati dagli Utenti per accedere alla Piattaforma suddetta, come, ad esempio, il browser adottato; i dati comunicati per la configurazione dell'account e – più in generale – ogni altro dato che gli Utenti medesimi decidano di inserire nella Piattaforma, ad integrazione del proprio profilo.\n*   **Da pubblici registi o altre fonti a libero accesso**, come social network o directory professionali, gestiti da terzi Titolari autonomi, a seconda dei casi e dei dati messi a disposizione da tali fonti, nonché compatibilmente con i relativi regolamenti di utilizzo e le legittime aspettative degli Utenti medesimi, in conseguenza dell’inserimento dei loro dati sulle fonti in questione, potranno essere attinti: nome, cognome, qualifica professionale, azienda presso cui ricoprono l’incarico, indirizzo mail aziendale e numero telefonico degli Utenti stessi.\n\n### 3. Basi giuridiche\nLe basi giuridiche dei trattamenti che ESTATE VISION effettua sui dati personali degli Utenti variano a seconda delle specifiche finalità del trattamento in considerazione, che sono dettagliate nei seguenti paragrafi 4, 5, 6 e 7, con indicazione delle basi giuridiche adottate per ciascuna di esse.\n\n### 4. Principali finalità del trattamento\nI dati personali degli Utenti saranno trattati da ESTATE VISION per le seguenti principali finalità di trattamento:\n\n(a) **Adempimento di obblighi contrattuali** (ex art. 6, par. 1 lett. b) del Regolamento Privacy), ovvero per dare esecuzione ai servizi offerti sul Sito e sulla Piattaforma, nel caso gli Utenti vi abbiano già aderito, e/o alle misure precontrattuali propedeutiche all’eventuale adesione futura agli stessi, così come per adempiere alle condizioni generali di servizio di detti Sito e Piattaforma; a titolo esemplificativo e non esaustivo:\n\n*   **Mediante l’utilizzo del Sito**, gli Utenti potranno: (i) visionare i servizi offerti da ESTATE VISION; (ii) richiedere un preventivo; (iii) prenotare una demo personalizzata; (iv) registrarsi ed autenticarsi per usufruire dei servizi.\n*   **Mediante l’utilizzo della Piattaforma**, gli Utenti stessi potranno gestire le attività e i processi operativi e usufruire dei servizi di supporto erogati tramite detta Piattaforma.\n\n(b) **Finalità amministrativo-contabili** (ex art. 6, par. 1, lett. c) del Regolamento Privacy), ovvero per svolgere attività di natura organizzativa, amministrativa, finanziaria e contabile, in relazione all’esecuzione dei propri servizi ed alla gestione del Sito e della Piattaforma summenzionati;\n\n(c) **Adempimento di obblighi di legge** (ex art. 6, par. 1, lett. c) del Regolamento Privacy), ovvero per adempiere ad obblighi previsti dalla legge, da un regolamento o dalla normativa europea (ad esempio, la normativa in materia fiscale);\n\n(d) **Tutela dei diritti di ESTATE VISION** stessa (ex art. 17, par. 3, lett. e) del Regolamento Privacy).\n\n#### 4.1 Natura del conferimento\nIl trattamento dei dati personali per le finalità principali sopra elencate è obbligatorio, in quanto imposto da obblighi di legge o comunque necessario per la realizzazione dei servizi richiesti. La mancata accettazione del trattamento degli stessi comporterà l’impossibilità per gli Utenti di usufruire di alcune delle funzionalità offerte sul Sito e/o sulla Piattaforma, così come degli altri servizi proposti da ESTATE VISION.\n\n### 5. Ulteriori finalità del trattamento: invio di comunicazioni commerciali di c.d. \"soft spam\"\nESTATE VISION potrà inviare agli Utenti, che si siano già avvalsi dei suoi servizi, anche senza un previo consenso dei medesimi alla ricezione di tali comunicazioni, in applicazione della deroga concessa dal Legislatore per la c.d. “soft spam”, informazioni riguardo a nuovi prodotti o nuovi servizi dalla stessa offerti, purché analoghi a quelli da loro già acquistati in precedenza.\n\n#### 5.1 Natura del conferimento\nIl trattamento dei dati personali degli Utenti per la presente finalità è basato sul legittimo interesse di ESTATE VISION. Gli Utenti destinatari di detti messaggi di carattere commerciale potranno in ogni caso sempre interrompere la ricezione degli stessi, in forza del diritto di opposizione di cui all’art. 21 del Regolamento Privacy, facendone richiesta a ESTATE VISION, con le modalità indicate al successivo paragrafo 10.\n\n### 6. Ulteriori finalità del trattamento: invio di newsletter e di comunicazioni di direct marketing\nIn caso gli Utenti acconsentano espressamente ed in via preventiva a tale ulteriore trattamento, ESTATE VISION invierà loro anche una newsletter periodica e occasionali comunicazioni di direct marketing.\n\n#### 6.1 Natura del conferimento\nIl consenso da parte degli Utenti al trattamento dei propri dati personali per tale finalità è libero e facoltativo, ma requisito necessario per poter ricevere dette newsletter e comunicazioni di direct marketing. Anche in caso di consenso, gli Utenti potranno in qualsiasi momento revocare lo stesso, facendone richiesta a ESTATE VISION.\n\n### 7. Ulteriori finalità del trattamento: altre attività di marketing diretto\nSulla base del legittimo interesse ad ampliare la propria base di clientela, ESTATE VISION potrà inoltre trattare, per finalità di marketing diretto, dati personali di Utenti che ricoprano cariche manageriali in aziende target, attingendo i dati da fonti pubblicamente accessibili.\n\n#### 7.1 Natura del conferimento\nIl trattamento dei dati personali degli Utenti per la presente finalità è basato sul legittimo interesse di ESTATE VISION ed è supportato da un apposito Legitimate Interest Assessment.\n\n### 8. Trasferimenti di dati personali extra UE\nI dati personali degli Utenti potrebbero essere trasferiti in Paesi extra Unione Europea. ESTATE VISION garantisce l'applicazione delle Standard Contractual Clauses approvate dalla Commissione Europea per assicurare un adeguato livello di protezione.\n\n### 9. Soggetti del trattamento ed ambiti di comunicazione\nPotranno venire a conoscenza dei dati personali degli Utenti i dipendenti e/o i collaboratori di ESTATE VISION e fornitori di servizi terzi (responsabili del trattamento) debitamente nominati. I dati non saranno diffusi.\n\n### 10. Diritti degli Utenti\nGli Utenti possono esercitare i diritti di accesso, rettifica, cancellazione, limitazione, opposizione, portabilità, reclamo al Garante Privacy.\nLe richieste di esercizio dei diritti andranno rivolte a ESTATE VISION:\n\n*   Via e-mail (PEC): **estatevision@pec.it**\n*   Via raccomandata: **ESTATE VISION S.R.L., VIA OTTAVIO ASSAROTTI 10, 10122 – TORINO (TO)**.\n\n### 11. Periodo di conservazione\nI dati saranno conservati per il tempo necessario al perseguimento delle finalità, inclusi obblighi di legge (10 anni per documentazione amministrativa). I dati di marketing saranno conservati per 24 mesi.\n\n### 12. Modalità di trattamento\nIl trattamento sarà effettuato mediante strumenti manuali ed informatici, garantendo sicurezza e riservatezza.\n\n### 13. Cookie\nIl Sito e la Piattaforma fanno utilizzo di cookie. Si rimanda all'informativa dedicata.\n\n### 14. Data Protection Officer (DPO)\nPer contatti specifici relativi al DPO, fare riferimento all'indirizzo **estatevision@pec.it**."
+    },
+    "terms": {
+        "back": "Torna alla Home",
+        "legal": "Legale // Termini",
+        "title": "Termini e Condizioni",
+        "content": "# Termini e Condizioni\n\n### 1. Accettazione dei Termini\nAccedendo alla piattaforma EstateVision, accetti di rispettare questi termini di servizio e tutte le leggi e i regolamenti applicabili. Se non accetti uno qualsiasi di questi termini, ti è proibito utilizzare o accedere a questo sito.\n\n### 2. Licenza Restrittiva\nL'accesso è concesso esclusivamente per scopi di intelligence professionale e valutazione del rischio. Non puoi:\n\n*   Modificare o copiare il materiale sorgente o gli asset 3D\n*   Utilizzare il materiale per scopi commerciali non autorizzati\n*   Tentare di decompilare o effettuare reverse engineering di qualsiasi software contenuto nella piattaforma\n*   Rimuovere qualsiasi copyright o notazione proprietaria dai livelli di intelligence\n\n### 3. Disclaimer\nL'intelligence fornita da EstateVision si basa su modelli predittivi e dati storici. Sebbene ci sforziamo di ottenere un'estrema accuratezza, le intuizioni hanno natura oracolare e dovrebbero essere utilizzate come uno dei tanti fattori nei processi decisionali umani.\n\n### 4. Legge Applicabile\nQuesti termini e condizioni sono regolati e interpretati in conformità con le leggi aziendali internazionali, e ti sottoponi irrevocabilmente alla giurisdizione esclusiva dello stato o del luogo designato da EstateVision Group."
+    },
+    "cookies": {
+        "text": "Utilizziamo cookie per finalità tecniche e, con il tuo consenso, per le finalità di misurazione e marketing (con annunci personalizzati). Il rifiuto del consenso può rendere non disponibili le relative funzioni.",
+        "text2": "Puoi liberamente rifiutare o revocare il tuo consenso in qualsiasi momento. Usa il pulsante “Accetta” per acconsentire. Chiudi questa informativa per continuare senza accettare.",
+        "accept": "Accetta",
+        "decline": "Rifiuta"
+    }
+}
