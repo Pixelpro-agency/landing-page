@@ -1,9 +1,25 @@
 import { NextResponse } from 'next/server';
 import nodemailer from 'nodemailer';
 
+type FormBody = {
+    name: string;
+    email: string;
+    company: string;
+    persona: string;
+    countryCode?: string;
+    phone?: string;
+    acceptedTerms: boolean;
+};
+
+function prettifyPersona(persona: unknown): string {
+    return String(persona ?? '')
+        .replace(/_/g, ' ')
+        .replace(/\b\w/g, (l: string) => l.toUpperCase());
+}
+
 export async function POST(request: Request) {
     try {
-        const body = await request.json();
+        const body: FormBody = await request.json();
         const { name, email, countryCode, phone, company, persona, acceptedTerms } = body;
 
         // Validazione
@@ -13,6 +29,8 @@ export async function POST(request: Request) {
                 { status: 400 }
             );
         }
+
+        const personaPretty = prettifyPersona(persona);
 
         // Configurazione Trasporto Gmail
         const transporter = nodemailer.createTransport({
@@ -39,7 +57,7 @@ Full Name: ${name}
 Corporate Email: ${email}
 Organization / Enterprise: ${company}
 Phone Number: ${countryCode} ${phone}
-Primary Role: ${persona}
+Primary Role: ${personaPretty}
 Terms Accepted: Yes
             `,
             html: `
@@ -83,7 +101,7 @@ Terms Accepted: Yes
         <!-- Role -->
         <div style="margin-bottom: 30px;">
             <p style="text-transform: uppercase; font-size: 11px; color: #64748b; font-weight: 700; letter-spacing: 0.05em; margin: 0 0 5px 0;">Primary Role (Buyer Persona)</p>
-            <p style="font-size: 16px; color: #1e293b; margin: 0; font-weight: 500;">${persona.replace('_', ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())}</p>
+            <p style="font-size: 16px; color: #1e293b; margin: 0; font-weight: 500;">${personaPretty}</p>
         </div>
 
         <!-- Footer Info -->
