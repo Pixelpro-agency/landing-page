@@ -24,6 +24,8 @@ export default function PartnershipsSection() {
                     </h2>
                 </motion.div>
 
+
+
                 <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
                     {/* Google for Startups */}
                     <motion.div
@@ -31,7 +33,8 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6 }}
-                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
+                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg cursor-pointer"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
@@ -41,7 +44,7 @@ export default function PartnershipsSection() {
                                 alt="Google for Startups"
                                 width={280}
                                 height={56}
-                                className="h-14 w-auto object-contain group-hover:opacity-100 transition-all duration-500"
+                                className="h-14 w-auto object-contain group-hover:scale-105 transition-all duration-500"
                             />
                         </div>
 
@@ -60,7 +63,8 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6, delay: 0.1 }}
-                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
+                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg cursor-pointer"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
@@ -70,7 +74,7 @@ export default function PartnershipsSection() {
                                 alt="SDG 11"
                                 width={80}
                                 height={80}
-                                className="h-16 w-auto object-contain group-hover:opacity-100 transition-all duration-500"
+                                className="h-16 w-auto object-contain group-hover:scale-105 transition-all duration-500"
                             />
                         </div>
 
@@ -96,6 +100,6 @@ export default function PartnershipsSection() {
                     </p>
                 </motion.div>
             </div>
-        </section>
+        </section >
     );
 }

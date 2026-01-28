@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <footer className="bg-black border-t border-white/10 pt-24 pb-12">
       <div className="max-w-7xl mx-auto px-6 mb-12 flex flex-col items-start space-y-8 md:flex-row md:justify-between md:items-center md:space-y-0">
-        <Link href="/" className="flex items-center space-x-3 group">
+        <Link href="/" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="flex items-center space-x-3 group">
           <Image
             src="/logos/logo_blue.png"
             alt="EstateVision"

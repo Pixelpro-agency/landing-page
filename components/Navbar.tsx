@@ -27,7 +27,7 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full z-50 border-b border-white/10 bg-[#02040A]/80 backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-4 md:px-6 h-20 flex items-center justify-between gap-4">
         <div className="flex items-center">
-          <Link href="/" className="flex items-center space-x-3 group transition-opacity">
+          <Link href="/" onClick={handleLogoClick} className="flex items-center space-x-3 group transition-opacity">
             <Image
               src="/logos/logo_blue.png"
               alt="EstateVision"
