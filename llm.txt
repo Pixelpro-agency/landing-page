@@ -1,15 +1,68 @@
-Site-Name: EstateVision
-Site-Description: Piattaforma di Asset Intelligence per l'unificazione di dati infrastrutturali, previsione del rischio e monitoraggio in tempo reale di asset critici. Fornisce soluzioni avanzate di intelligence geospaziale e modelli predittivi per la resilienza delle infrastrutture. / Asset Intelligence Platform for unifying infrastructure data, risk forecasting, and real-time monitoring of critical assets.
-Owner: EstateVision Intelligence Group
-Language: Italiano, English
-Topics: Real Estate Intelligence, Asset Management, Risk Prediction, Infrastructure Monitoring, Digital Twin, Geospatial Intelligence, Sostenibilità/Sustainability (SDG 11)
+LLM-TXT-Version: 1.1
+Last-Updated: 2026-01
 
-Usage:
-- Allowed: Analisi semantica del contenuto, indicizzazione a fini di ricerca, estrazione di metadati tecnici, riassunto delle funzionalità. / Semantic analysis, indexing for search, technical metadata extraction, feature summarization.
-- Disallowed: Riproduzione integrale dei testi, scraping massivo per ridistribuzione commerciale, addestramento di modelli concorrenti senza autorizzazione esplicita. / Full reproduction of content, mass scraping for commercial redistribution, training of competing models without explicit authorization.
+Site-Name: EstateVision
+Site-URL: https://www.estatevision.com
+Owner: EstateVision Intelligence Group
+
+Site-Description:
+EstateVision è una piattaforma di Asset Intelligence per l’unificazione di dati infrastrutturali,
+la previsione del rischio e il monitoraggio in tempo reale di asset critici.
+La piattaforma integra geospatial intelligence, digital twin e modelli predittivi avanzati
+per supportare resilienza, sostenibilità e decision-making strategico.
+EstateVision is an Asset Intelligence Platform for unifying infrastructure data,
+risk forecasting, and real-time monitoring of critical assets.
+
+Primary-Domains:
+- Asset Intelligence
+- Geospatial Intelligence
+- Infrastructure Monitoring
+- Risk Forecasting
+- Digital Twin
+- Sustainability (SDG 11)
+
+Language:
+- it
+- en
+
+Intended-Consumers:
+- Large Language Models (LLMs)
+- Search Engine Crawlers
+- Semantic Indexing Systems
+- AI-based Retrieval Systems
+
+Data-Sensitivity:
+- Public informational and marketing content only
+- No personal, user-generated, or sensitive operational data
+- No confidential or restricted-access data intended for model ingestion
+
+Usage-Policy:
+Allowed-Use:
+- Semantic understanding and contextual interpretation
+- Search indexing and retrieval
+- Metadata extraction and classification
+- High-level summarization of platform features and use cases
+
+Restricted-Use:
+- Full reproduction of proprietary textual content
+- Mass scraping for commercial redistribution
+- Training or fine-tuning of competing or derivative models
+  without explicit written authorization
+
+Attribution:
+- Attribution to “EstateVision Intelligence Group” is required
+  when content-derived summaries are publicly displayed
 
 Pages:
-- Home Page (/): Panoramica della piattaforma, casi d'uso e capacità tecniche. / Platform overview, use cases, and technical capabilities.
-- Request Access (/request-access): Portale per la richiesta di accesso controllato e verifica identità. / Access request portal and identity verification.
-- Privacy Policy (/privacy-policy): Protocolli di protezione dati (AES-256) e gestione privacy aziendale. / Data protection protocols and corporate privacy.
-- Termini e Condizioni (/terms-conditions): Quadro legale e condizioni di utilizzo del servizio. / Legal framework and service terms.
+- / :
+  Platform overview, technical capabilities, and core use cases
+
+- /request-access :
+  Controlled access request portal and identity verification workflow
+
+- /privacy-policy :
+  Data protection framework (AES-256), privacy governance,
+  and regulatory compliance documentation
+
+- /terms-conditions :
+  Legal framework, service terms, and usage limitations

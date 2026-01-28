@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Blocca aree non pubbliche o sensibili
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /internal/
+Disallow: /private/
+
+# Sitemap ufficiale
+Sitemap: https://www.estatevision.com/sitemap.xml
