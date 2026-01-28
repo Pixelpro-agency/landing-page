@@ -27,14 +27,15 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full z-50 border-b border-white/10 bg-[#02040A]/80 backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-4 md:px-6 h-20 flex items-center justify-between gap-4">
         <div className="flex items-center">
-          <Link href="/" onClick={handleLogoClick} className="cursor-pointer">
+          <Link href="/" className="flex items-center space-x-3 group transition-opacity">
             <Image
-              src="/logos/EstateVision_LogoEsteso_Bianco.svg"
+              src="/logos/logo_blue.png"
               alt="EstateVision"
-              width={180}
-              height={40}
-              className="h-[25.6px] md:h-8 w-auto transition-all"
+              width={32}
+              height={32}
+              className="h-8 w-auto"
             />
+            <span className="text-2xl md:text-3xl font-bold tracking-tighter text-white">EstateVision</span>
           </Link>
         </div>
         <div className="hidden md:flex items-center space-x-8">
@@ -43,17 +44,17 @@ export default function Navbar() {
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-3 text-[10px] font-mono font-bold tracking-[0.2em]">
             <button
-              onClick={() => i18n.changeLanguage('it')}
-              className={`${currentLang === 'IT' ? 'text-white' : 'text-gray-500'} hover:text-white transition-colors uppercase`}
-            >
-              IT
-            </button>
-            <span className="text-white/20 select-none">/</span>
-            <button
               onClick={() => i18n.changeLanguage('en')}
               className={`${currentLang === 'EN' ? 'text-white' : 'text-gray-500'} hover:text-white transition-colors uppercase`}
             >
               EN
+            </button>
+            <span className="text-white/20 select-none">/</span>
+            <button
+              onClick={() => i18n.changeLanguage('it')}
+              className={`${currentLang === 'IT' ? 'text-white' : 'text-gray-500'} hover:text-white transition-colors uppercase`}
+            >
+              IT
             </button>
           </div>
 

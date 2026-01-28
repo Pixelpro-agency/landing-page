@@ -31,22 +31,22 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6 }}
-                        className="group relative bg-zinc-200 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
                         <div className="relative z-10 w-full h-20 mb-8 flex items-center justify-center">
                             <Image
-                                src="/images/google-startups.png"
+                                src="/images/google-startups-white.png"
                                 alt="Google for Startups"
-                                width={200}
-                                height={40}
-                                className="h-10 w-auto object-contain group-hover:opacity-100 transition-all duration-500"
+                                width={280}
+                                height={56}
+                                className="h-14 w-auto object-contain group-hover:opacity-100 transition-all duration-500"
                             />
                         </div>
 
                         <div className="relative z-10">
-                            <p className="text-zinc-600 text-sm leading-relaxed max-w-sm">
+                            <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
                                 {t('partnerships.google.desc')}
                             </p>
                         </div>
@@ -60,7 +60,7 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6, delay: 0.1 }}
-                        className="group relative bg-zinc-200 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
@@ -75,7 +75,7 @@ export default function PartnershipsSection() {
                         </div>
 
                         <div className="relative z-10">
-                            <p className="text-zinc-600 text-sm leading-relaxed max-w-sm">
+                            <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
                                 {t('partnerships.sdg.desc')}
                             </p>
                         </div>

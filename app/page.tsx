@@ -3,7 +3,7 @@ import Hero from '@/components/Hero';
 import ProblemSection from '@/components/ProblemSection';
 import PlatformSection from '@/components/PlatformSection';
 import UseCasesSection from '@/components/UseCasesSection';
-import InterfacePreview from '@/components/InterfacePreview';
+
 import PartnershipsSection from '@/components/PartnershipsSection';
 import CTA from '@/components/CTA';
 import Footer from '@/components/Footer';
@@ -20,7 +20,7 @@ export default function Home() {
       <ProblemSection />
       <PlatformSection />
       <UseCasesSection />
-      <InterfacePreview />
+
       <PartnershipsSection />
       <CTA />
       <Footer />

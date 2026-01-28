@@ -95,10 +95,10 @@
             "phone": "Phone Number",
             "role": "Primary Role (Buyer Persona)",
             "roles": {
-                "placeholder": "select your mandate",
-                "assetManager": "I am Asset manager",
-                "securityManager": "I am security manager",
-                "other": "other"
+                "placeholder": "Select your mandate",
+                "assetManager": "I am an Asset Manager",
+                "securityManager": "I am a Security Manager",
+                "other": "Other"
             },
             "accept": "I have read and accept the",
             "terms": "terms and conditions",

@@ -95,10 +95,10 @@
             "phone": "Numero di Telefono",
             "role": "Ruolo Primario (Profilo Acquirente)",
             "roles": {
-                "placeholder": "seleziona il tuo mandato",
-                "assetManager": "Sono un Asset manager",
-                "securityManager": "Sono un security manager",
-                "other": "altro"
+                "placeholder": "Seleziona il tuo mandato",
+                "assetManager": "Sono un Asset Manager",
+                "securityManager": "Sono un Security Manager",
+                "other": "Altro"
             },
             "accept": "Ho letto e accetto i",
             "terms": "termini e condizioni",

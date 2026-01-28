@@ -110,14 +110,15 @@ export default function RequestAccessPage() {
                         <ArrowLeft className="w-4 h-4 text-gray-400 group-hover:text-white transition-colors" />
                         <span className="text-sm font-mono text-gray-400 group-hover:text-white transition-colors">{t('requestAccess.back')}</span>
                     </Link>
-                    <Link href="/">
+                    <Link href="/" className="flex items-center space-x-3 group">
                         <Image
-                            src="/logos/EstateVision_LogoEsteso_Bianco.svg"
+                            src="/logos/logo_blue.png"
                             alt="EstateVision"
-                            width={140}
+                            width={32}
                             height={32}
-                            className="h-6 w-auto cursor-pointer"
+                            className="h-8 w-auto cursor-pointer"
                         />
+                        <span className="text-2xl md:text-3xl font-bold tracking-tighter text-white">EstateVision</span>
                     </Link>
                     <div className="w-20"></div> {/* Spacer for symmetry */}
                 </div>
@@ -339,14 +340,17 @@ export default function RequestAccessPage() {
             </main>
 
             <footer className="relative z-10 border-t border-white/5 py-12 bg-black/40">
-                <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center opacity-40 grayscale">
-                    <Image
-                        src="/logos/EstateVision_LogoEsteso_Bianco.svg"
-                        alt="EstateVision"
-                        width={100}
-                        height={20}
-                        className="mb-8 md:mb-0"
-                    />
+                <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
+                    <Link href="/" className="flex items-center space-x-3 mb-8 md:mb-0 group">
+                        <Image
+                            src="/logos/logo_blue.png"
+                            alt="EstateVision"
+                            width={32}
+                            height={32}
+                            className="h-8 w-auto"
+                        />
+                        <span className="text-2xl md:text-3xl font-bold tracking-tighter text-white">EstateVision</span>
+                    </Link>
                     <div className="flex space-x-8 text-[10px] font-mono uppercase tracking-[0.2em]">
                         <span>{t('footer.secureLink')}</span>
                         <span>EstateVision v2.6</span>

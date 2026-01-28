@@ -11,13 +11,16 @@ export default function Footer() {
   return (
     <footer className="bg-black border-t border-white/10 pt-24 pb-12">
       <div className="max-w-7xl mx-auto px-6 mb-12 flex flex-col items-start space-y-8 md:flex-row md:justify-between md:items-center md:space-y-0">
-        <Image
-          src="/logos/EstateVision_LogoEsteso_Bianco.svg"
-          alt="EstateVision"
-          width={140}
-          height={32}
-          className="h-6 w-auto opacity-50 hover:opacity-100 transition-opacity"
-        />
+        <Link href="/" className="flex items-center space-x-3 group">
+          <Image
+            src="/logos/logo_blue.png"
+            alt="EstateVision"
+            width={32}
+            height={32}
+            className="h-8 w-auto cursor-pointer"
+          />
+          <span className="text-2xl md:text-3xl font-bold tracking-tighter text-white">EstateVision</span>
+        </Link>
 
         <div className="flex space-x-4">
           <a href="https://x.com/properlytix/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors">
