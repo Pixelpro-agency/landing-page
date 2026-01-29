@@ -33,8 +33,7 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6 }}
-                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg cursor-pointer"
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
@@ -63,8 +62,7 @@ export default function PartnershipsSection() {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.6, delay: 0.1 }}
-                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg cursor-pointer"
+                        className="group relative bg-white/5 border border-white/10 p-10 rounded-sm overflow-hidden flex flex-col items-center text-center shadow-lg"
                     >
                         <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
